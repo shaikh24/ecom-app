@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: flutter-ecom-app
-    env: static
-    buildCommand: ""
-    staticPublishPath: build/web
